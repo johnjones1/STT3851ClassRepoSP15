@@ -1,0 +1,27 @@
+---
+title: "Literature Review/Citation Assignment"
+author: 
+date: "January 30, 2015"
+output: html_document
+bibliography: Wealth.bib
+---
+
+I have decided to review the different factors associated with the overall wealth of nations. There are several ways to determine a country's overall wealth, but the two that I will be focusing on are a country's overall Gross Domestic Product, and the wealth of the individual citizens. There are arguments for both measurements of wealth; while some would argue that wealth should be determined by the overall accumulation of assets and monetary threshold of a country, others would argue that average citizen should be taken into account when making this determination. 
+
+After reading through several articles that address nations' wealth, I have decided to focus on how certain societal advancements of a nation are related to that nation's wealth. The main advancements that I will focus on are advancements in technology, education, and the economy. There were several issues that I found to be of interest when reading articles on the subject:
+
+1. IQ scores are positively correlated to a country's overall GDP as well as the GDP per person. Two separate studies indicate this correlation is exponential. While this result is not surprising, I want to see if higher education of a nations citizens has as strong affect as IQ scores when determining wealth.
+2. Wireless communication and the readiness in which it is adopted is a strong indicator of a country's overall wealth. I wish to dig a little deeper on this issue and see if there are other technological advancements that present a stronger indication of wealth. Other variables that I plan to research include other types of technology, such as computer and internet use, and their correlation to national wealth.
+3. There are many countries that have very high GDP as well as other strong indicators of wealth, but have many citizens who are extremely poor. While this indicator of poor economic advancement often does not affect overall national wealth, I think the advancement of a society is ultimately dependent its citizens and their utility of wealth. I wish to further research the impact of the wealth gap of citizens and see if this is a predictor of future economic growth or decline. Some of the variables I will be using focus on projected economic growth and the wealth gap of countries.
+
+The following articles were of particular interest and provided the groundwork for my topic:
+
+@kuznets_economic_1955 described how economic growth and a society's distribution of income are correlated and how this correlation affects a nation's overall wealth.
+@dickerson_exponential_2006 explained how overall IQ is positively correlated with a country's GDP. This article also addresses the association of technology and a country's overall wealth.
+@lynch_income_2001 described how income inequality and health were correlated, as well as the role both of these factors had in determining a country's overall wealth.
+@melman_measuring_1992 explained how there are many variables that must be accounted for when deciding how to determine the wealth of a country. This also addresses how monetary value of assets cannot always be the sole determinant of wealth.
+@gylfason_natural_2001 also speaks on education and IQ score correlations when determining wealth of a country, but also explains how natural resources often have a high correlation on the economic development of a nation.
+@sundqvist_effects_2005 shows how wireless communication and the readiness to accept this technology is highly correlated with a country's overall wealth and economic development.
+@lane_external_2007 focuses on trends of global economic data, with a large focus on how investments are associated with a country's overall wealth.
+
+# References
